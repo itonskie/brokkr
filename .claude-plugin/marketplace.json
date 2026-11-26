@@ -1,0 +1,11 @@
+{
+  "name": "brokkr",
+  "owner": { "name": "Mark Oesterdal" },
+  "plugins": [
+    {
+      "name": "brokkr",
+      "source": "./",
+      "description": "Local-model workers for Claude Code: Claude plans and reviews, a model on your own GPU writes the code."
+    }
+  ]
+}

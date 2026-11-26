@@ -1,0 +1,7 @@
+{
+  "name": "brokkr",
+  "description": "Local-model workers for Claude Code. Claude plans and reviews; a headless claude -p on a local model behind Strata reads code (local_ask), implements items (local_task) and runs whole task-list phases (forge.sh batch) with a local fix loop, so Claude's usage goes to the work worth it. Includes an MCP server and a usage report.",
+  "author": {
+    "name": "Mark Oesterdal"
+  }
+}
